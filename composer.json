@@ -1,5 +1,5 @@
 {
-    "name": "yidejia/zzg",
+    "name": "zhouzhiguo/zzg",
     "require": {
         "php": "^7.3",
         "friendsofphp/php-cs-fixer": "dev-master"
