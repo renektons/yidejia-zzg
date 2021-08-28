@@ -1,8 +1,7 @@
 {
     "name": "zhouzhiguo/zzg",
     "require": {
-        "php": "^7.3",
-        "friendsofphp/php-cs-fixer": "dev-master"
+        "php": "^7.2"
     },
     "authors": [{
         "name": "zhouzhiguo",
