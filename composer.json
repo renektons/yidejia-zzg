@@ -3,11 +3,11 @@
     "require": {
         "php": "^7.2"
     },
+    "version": "v1.0.0",
     "authors": [{
         "name": "zhouzhiguo",
         "email": "757945630@qq.com"
     }],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Zzg\\Test\\": "src/"
